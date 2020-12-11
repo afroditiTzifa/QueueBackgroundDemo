@@ -1,0 +1,1 @@
+{"User":"afro","Branch":"tzifa","DateFrom":"\/Date(1607637600000)\/","DateTo":"\/Date(1607637600000)\/","CustomerView":"afro","CustomerGroup":"ssss"}
